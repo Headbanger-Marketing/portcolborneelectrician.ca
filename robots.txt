@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://portcolborneelectrician.ca/sitemap-index.xml
